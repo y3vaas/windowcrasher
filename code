@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar i %3D 2%3Bwhile (i <%3D 10) %7Bwindow.open("about:blank"%2C""%2C"width%3D1200%2Cheight%3D600"%2C)%3Bi -%3D 2%3B%7D%7D)()
